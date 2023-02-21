@@ -9,6 +9,5 @@ Students are expected to:
 Student Info
 =========================
 
-* Student Name: Dang Vu Minh
+* Student Name: DANG VU MINH
 * Student ID: BI12-264
-
